@@ -1,0 +1,2 @@
+# eslintrc
+ESLint config file
